@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bashir Rastegarpanah. I am a 
+My name is Bashir Rastegarpanah. I am a [testing...]
 
 A data-driven personal website
 ======
