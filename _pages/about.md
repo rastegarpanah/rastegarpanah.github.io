@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am a Data Scientist working on Machilne Learning monitoring and responsible AI.
-In the past few years I have been working on developing new tools and measures for issues
-surrounding fairness, privacy, explainability in ML.
+In recent years I have been working on developing tools and measures for issues
+surrounding fairness, privacy, and explainability in ML.
 
 I have received a PhD in computer science from Boston University.
 My PhD advisors were Professor Mark Crovella and Professor Krishna Gummadi.
