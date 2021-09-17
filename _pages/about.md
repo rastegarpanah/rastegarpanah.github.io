@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bashir Rastegarpanah. I am a [testing...]
+I am a Data Scientist intersted in machilne learning monitoring and responsible AI.
+In the past few years I have been working on developing new tools and measures for issues
+surrounding fairness, privacy, explainability in ML.
+
+I have received a PhD in computer science from Boston University.
+My PhD advisors were Professor Mark Crovella and Professor Krishna Gummadi.
+
+
+
+
 
 A data-driven personal website
 ======
