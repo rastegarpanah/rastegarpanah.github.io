@@ -13,7 +13,7 @@ In recent years I have been working on developing tools and measures for issues
 surrounding fairness, privacy, and explainability in ML.
 
 I have received a PhD in computer science from Boston University.
-My PhD advisors were Professor Mark Crovella and Professor Krishna Gummadi.
+My PhD advisors were Mark Crovella and Krishna Gummadi.
 Before joining BU I received a M.Sc. in computer science from Univeristy of Bonn.
 
 I have the exprience of developing novel data-driven aproaches for
