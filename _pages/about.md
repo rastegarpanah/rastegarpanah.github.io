@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist intersted in machilne learning monitoring and responsible AI.
+I am a Data Scientist working on Machilne Learning monitoring and responsible AI.
 In the past few years I have been working on developing new tools and measures for issues
 surrounding fairness, privacy, explainability in ML.
 
