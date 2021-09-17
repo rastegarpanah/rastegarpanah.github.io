@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist working on Machilne Learning monitoring and responsible AI.
+I am a data scientist interested in machilne learning monitoring and responsible AI.
 In recent years I have been working on developing tools and measures for issues
 surrounding fairness, privacy, and explainability in ML.
 
-I have received a PhD in computer science from Boston University.
+I have received a Ph.D. in computer science from Boston University.
 My PhD advisors were Professor Mark Crovella and Professor Krishna Gummadi.
+Before joining BU I received a M.Sc. in computer science from Univeristy of Bonn.
 
-
-
+I have the exprience of developing novel data-driven aproaches for
+recommender systems and systems biology (Single-cell RNA) problems.
 
 
 A data-driven personal website
