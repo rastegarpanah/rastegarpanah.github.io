@@ -15,7 +15,7 @@ surrounding fairness, privacy, and explainability in ML.
 
 I have received a PhD in computer science from Boston University.
 My PhD advisors were Mark Crovella and Krishna Gummadi.
-Before joining BU I received a M.Sc. in computer science from University of Bonn.
+Before joining BU, I received a M.Sc. in computer science from University of Bonn.
 
 I am interested in the applications of machine learning in healthcare, finance, and systems biology.
 In the past, I have worked on developing novel data-driven approaches for
