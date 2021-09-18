@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="https://rastegarpanah.github.io/files/CV_Bashir.pdf" type="application/pdf"/>
