@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist with special interest in responsible AI, and monitoring and expainability
+I am a data scientist with special interest in responsible AI, and monitoring and explainability
 of machine learning systems.
 In recent years, I have been working on developing tools and measures for issues
 surrounding fairness, privacy, and explainability in ML.
