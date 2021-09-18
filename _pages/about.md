@@ -14,8 +14,10 @@ In recent years, I have been working on developing tools and measures for issues
 surrounding fairness, privacy, and explainability in ML.
 
 I have received a PhD in computer science from [Boston University](https://www.bu.edu/cs/).
-My PhD advisors were Mark Crovella and Krishna Gummadi.
-Before joining BU, I received a M.Sc. in computer science from University of Bonn.
+My PhD advisors were
+Professor [Mark Crovella](https://www.cs.bu.edu/fac/crovella/) and
+Professor [Krishna P. Gummadi](https://people.mpi-sws.org/~gummadi/).
+Before joining BU, I received a M.Sc. in computer science from [University of Bonn](https://www.informatik.uni-bonn.de/en).
 
 I am interested in the applications of machine learning in healthcare, finance, and systems biology.
 In the past, I have worked on developing novel data-driven approaches for
