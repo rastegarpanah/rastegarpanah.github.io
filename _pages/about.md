@@ -16,7 +16,7 @@ I have received a PhD in computer science from Boston University.
 My PhD advisors were Mark Crovella and Krishna Gummadi.
 Before joining BU I received a M.Sc. in computer science from Univeristy of Bonn.
 
-I have the exprience of developing novel data-driven aproaches for
+In the past, I have worked on developing novel data-driven solutions for
 recommender systems and systems biology (Single-cell RNA) problems.
 
 
