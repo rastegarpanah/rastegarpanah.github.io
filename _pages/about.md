@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist with special interest in machine learning monitoring and responsible AI.
+I am a data scientist with special interest in responsible AI, and monitoring and expainability
+of machine learning systems.
 In recent years, I have been working on developing tools and measures for issues
 surrounding fairness, privacy, and explainability in ML.
 
@@ -16,6 +17,7 @@ I have received a PhD in computer science from Boston University.
 My PhD advisors were Mark Crovella and Krishna Gummadi.
 Before joining BU I received a M.Sc. in computer science from University of Bonn.
 
+I am interested in applications of machine learning in healthcare and finance.
 In the past, I have worked on developing novel data-driven solutions for
 recommender systems and systems biology (Single-cell RNA) problems.
 
