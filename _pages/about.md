@@ -15,7 +15,7 @@ fairness, privacy, and explainability in ML.
 I am broadly interested in finding robust and trustworthy data-driven solutions
 to problems in healthcare, finance, social sciences, and systems biology.
 I have previously worked on developing novel computational approaches for recommender systems
-and the analysis of genomics (Single-cell RNA) data.
+and for the analysis of genomics (Single-cell RNA) data.
 
 I received a PhD in computer science from [Boston University](https://www.bu.edu/cs/)
 where my advisor was Professor [Mark Crovella](https://www.cs.bu.edu/fac/crovella/).
