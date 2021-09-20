@@ -26,4 +26,4 @@ a B.Sc. in software engineering from Univeristy of Isfahan.
 
 Updates and News
 ======
-* **August 2021.** I successfully defended my PhD dissertation "_Tools for Responsible Decision Making in Machine Learning_".
+* **August 2021.** I successfully defended my PhD dissertation, "_Tools for Responsible Decision Making in Machine Learning_".
