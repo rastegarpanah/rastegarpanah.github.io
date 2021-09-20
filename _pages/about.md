@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist passionate about monitoring and explainability of machine learning systems,
-and building trustworthy data-driven models. 
-In recent years, I have been working on developing tools and measures for issues
-surrounding fairness, privacy, and explainability in ML.
+I am a data scientist passionate about monitoring and explainability of machine learning systems.
+In recent years, I have been working on building trustworthy data-driven models and
+developing tools and measures for issues surrounding fairness, privacy, and explainability in ML.
 
 I received a PhD in computer science from [Boston University](https://www.bu.edu/cs/),
 where my advisor was Professor [Mark Crovella](https://www.cs.bu.edu/fac/crovella/).
