@@ -11,7 +11,8 @@ redirect_from:
 I am a data scientist passionate about monitoring and explainability of machine learning systems.
 In recent years, I have been working on developing tools and measures for issues surrounding
 fairness, privacy, and explainability in ML.
-I am broadly interested in building robust and trustworthy data-driven solutions
+
+I am broadly interested in finding robust and trustworthy data-driven solutions
 to problems in healthcare, finance, social sciences, and systems biology.
 I have previously worked on developing novel computational approaches for recommender systems
 and the analysis of genomics (Single-cell RNA) data.
