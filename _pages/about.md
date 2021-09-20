@@ -12,7 +12,7 @@ I am a data scientist passionate about monitoring and explainability of machine 
 In recent years, I have been working on building trustworthy data-driven models and
 developing tools and measures for issues surrounding fairness, privacy, and explainability in ML.
 
-I received a PhD in computer science from [Boston University](https://www.bu.edu/cs/),
+I received a PhD in computer science from [Boston University](https://www.bu.edu/cs/)
 where my advisor was Professor [Mark Crovella](https://www.cs.bu.edu/fac/crovella/).
 At the same time, I was a research visitor at the [Max Planck Institute](https://www.mpi-sws.org/) for Software Systems
 where I worked with Professor [Krishna P. Gummadi](https://people.mpi-sws.org/~gummadi/), my PhD co-advisor.
