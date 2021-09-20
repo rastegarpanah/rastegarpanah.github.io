@@ -26,4 +26,4 @@ and I was a research assistant at the [Fraunhofer Institute for Intelligent Anal
 
 Updates and News
 ======
-* August 2021. I successfully defended my PhD dissertation titled "_Tools for Responsible Decision Making in Machine Learning_".
+* **August 2021.** I successfully defended my PhD dissertation "_Tools for Responsible Decision Making in Machine Learning_".
