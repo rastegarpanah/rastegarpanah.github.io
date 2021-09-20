@@ -29,3 +29,4 @@ Updates and News
 * **August 2021.** I successfully defended my PhD dissertation, "_Tools for Responsible Decision Making in Machine Learning_".
 * **Juy 2020.** I presented our [paper](https://dl.acm.org/doi/abs/10.1145/3386392.3399568) about the incompatibility of
 fairness in privacy and accuracy in the [fairness workshop](https://fairumap.wordpress.com/fairumap-2020/) at [ACM UMAP 2020](https://um.org/umap2020/).  
+* **April 2020.** Our novel network-guided decomposition technique for the analysis of scRNA data is published in Nature Communications. The paper is available [here](https://www.nature.com/articles/s41467-020-16019-9).
