@@ -11,9 +11,9 @@ redirect_from:
 I am a data scientist passionate about monitoring and explainability of machine learning systems.
 In recent years, I have been working on developing tools and measures for issues surrounding
 fairness, privacy, and explainability in ML.
-I am broadly interested in building robust and trustworthy machine learning systems 
-with applications in healthcare, finance, social sciences, and systems biology.
-I have worked on developing novel data-driven computational approaches for recommender systems
+I am broadly interested in building robust and trustworthy data-driven solutions
+to problems in healthcare, finance, social sciences, and systems biology.
+I have previously worked on developing novel computational approaches for recommender systems
 and the analysis of genomics (Single-cell RNA) data.
 
 I received a PhD in computer science from [Boston University](https://www.bu.edu/cs/)
