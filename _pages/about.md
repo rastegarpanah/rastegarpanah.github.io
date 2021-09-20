@@ -21,7 +21,7 @@ I received a PhD in computer science from [Boston University](https://www.bu.edu
 where my advisor was Professor [Mark Crovella](https://www.cs.bu.edu/fac/crovella/).
 During my PhD, I was also a research visitor at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) 
 where I worked with Professor [Krishna P. Gummadi](https://people.mpi-sws.org/~gummadi/).
-Before that, I received a M.Sc. in computer science from [University of Bonn](https://www.informatik.uni-bonn.de/en) and
+Before that, I received a M.Sc. in computer science from University of Bonn and
 a B.Sc. in software engineering from Univeristy of Isfahan.
 
 Updates and News
