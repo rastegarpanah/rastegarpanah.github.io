@@ -22,7 +22,7 @@ where my advisor was Professor [Mark Crovella](https://www.cs.bu.edu/fac/crovell
 During my PhD, I was also a research visitor at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) 
 where I worked with Professor [Krishna P. Gummadi](https://people.mpi-sws.org/~gummadi/).
 Before that, I received a M.Sc. in computer science from University of Bonn and
-a B.Sc. in software engineering from Univeristy of Isfahan.
+a B.Sc. in software engineering from University of Isfahan.
 
 Updates and News
 ======
