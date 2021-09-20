@@ -19,10 +19,10 @@ and for the analysis of genomics (Single-cell RNA) data.
 
 I received a PhD in computer science from [Boston University](https://www.bu.edu/cs/)
 where my advisor was Professor [Mark Crovella](https://www.cs.bu.edu/fac/crovella/).
-At the same time, I was a research visitor at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) 
+During my PhD, I was also a research visitor at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) 
 where I worked with Professor [Krishna P. Gummadi](https://people.mpi-sws.org/~gummadi/).
-Before that, I received a M.Sc. in computer science from [University of Bonn](https://www.informatik.uni-bonn.de/en),
-and I was a research assistant at the [Fraunhofer Institute for Intelligent Analysis and Information Systems](https://www.iais.fraunhofer.de/en.html).
+Before that, I received a M.Sc. in computer science from [University of Bonn](https://www.informatik.uni-bonn.de/en) and
+a B.Sc. in software engineering from Univeristy of Isfahan.
 
 Updates and News
 ======
