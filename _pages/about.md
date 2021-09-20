@@ -24,5 +24,6 @@ where I worked with Professor [Krishna P. Gummadi](https://people.mpi-sws.org/~g
 Before that, I received a M.Sc. in computer science from [University of Bonn](https://www.informatik.uni-bonn.de/en),
 and I was a research assistant at the [Fraunhofer Institute for Intelligent Analysis and Information Systems](https://www.iais.fraunhofer.de/en.html).
 
-News
+Updates and News
 ======
+* 
