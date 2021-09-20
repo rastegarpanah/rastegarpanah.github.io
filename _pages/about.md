@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist passionate about monitorying and explainability of machine learning systems,
+I am a data scientist passionate about monitoring and explainability of machine learning systems,
 and building trustworthy data-driven models. 
 In recent years, I have been working on developing tools and measures for issues
 surrounding fairness, privacy, and explainability in ML.
