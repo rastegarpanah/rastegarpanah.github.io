@@ -26,6 +26,7 @@ a B.Sc. in software engineering from University of Isfahan.
 
 Updates and News
 ======
+* **November 2021.** I joined [Fiddler AI](https://www.fiddler.ai/).
 * **September 2021.** Our paper "Auditing Black-Box Prediction Models for Data Minimization Compliance" has been accepted for a spotlight presentation (<3% acceptance rate) at NeurIPS2021.
 * **August 2021.** I successfully defended my PhD dissertation, "_Tools for Responsible Decision Making in Machine Learning_".
 * **Juy 2020.** I presented our [paper](https://dl.acm.org/doi/abs/10.1145/3386392.3399568) about the incompatibility of
